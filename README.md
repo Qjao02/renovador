@@ -1,1 +1,19 @@
-# Renovador Automático Biblioteca CTAN
+# Renovador Automático Biblioteca UFSJ
+
+renovador automático de livros para a biblioteca da universidade federal de são joão del rei, atualmente o projeto esta em fase de testes
+
+## Como executar
+
+Executando o script:
+
+    python renovador.py numeromatricula senha
+    
+    
+# Dependencias
+
+* beautifulsoap
+* requests 
+
+# Extras
+
+Como não realizei testes com o python 2, recomendo a utilização do python3 
