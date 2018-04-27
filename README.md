@@ -6,7 +6,9 @@ renovador automático de livros para a biblioteca da universidade federal de sã
 
 Executando o script:
 
-    python renovador.py numeromatricula senha
+    python renovador.py numeromatricula senhadabiblioteca email 'emailsenha'
+
+O argumento de senha deve ser passado entre aspas !
     
     
 # Dependencias
